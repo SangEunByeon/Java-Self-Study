@@ -1,6 +1,8 @@
 # Java-Self-Study
 
-<Selecting Food Menu Program with using Java GUI>
+<h3>
+Selecting Food Menu Program with using Java GUI
+</h3>
 
 
 ScreenShot
