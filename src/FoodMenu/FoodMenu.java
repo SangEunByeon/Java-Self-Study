@@ -17,7 +17,7 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 
-// 음식 메뉴 생성자
+// 음식 메뉴 food 클래스 생성자
 class Food{
 	private String name;
 	private int price;
@@ -61,7 +61,7 @@ class MyFrame extends JFrame implements ActionListener{
 	private JTextArea ta = new JTextArea();
 	private JScrollPane scroll = new JScrollPane(ta);
 	private ArrayList<Food> list = new ArrayList<>();
-	int sum = 0;
+	
 	
 	// 초기 버튼 세팅
 	public void init() {
